@@ -1,0 +1,9 @@
+{
+  "main_data_path": "/Volumes/Extreme SSD/Papers/PAISKINTONE/Data",
+  "vitiligo_data_path": "/Volumes/Extreme SSD/Papers/PAISKINTONE/Vitiligo/Data",
+  "melanin_ultrasound_path": "/Volumes/Extreme SSD/Papers/PAISKINTONE/US from PA/Output",
+  "main_data_path_default": "Data",
+  "vitiligo_data_path_default": "Vitiligo/Data",
+  "melanin_ultrasound_path_default": "US from PA/Output",
+  "model_path": "/Volumes/Extreme SSD/Scripts/PAISKINTONE Model Based Reconstructor/forward_model.npz"
+}

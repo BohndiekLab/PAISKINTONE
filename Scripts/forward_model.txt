@@ -1,0 +1,1 @@
+Note that forward_model.npz can be found in the data deposit made with this paper and code. Place it in this folder for correct functioning of the code in this repository.

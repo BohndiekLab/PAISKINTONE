@@ -1,0 +1,40 @@
+,SkinID,Region,Pigment,Side,PairedPigment
+0,SKIN28,Bicep,,Left,
+1,SKIN28,Bicep,,Right,
+2,SKIN28,Carotid Artery,,,
+3,SKIN28,Leg,,,
+4,SKIN28,Radial Artery,Not Pigmented,Left,Not Pigmented
+5,SKIN28,Radial Artery,Not Pigmented,Right,Not Pigmented
+6,SKIN28,Radial Artery,Pigmented,Left,Pigmented
+7,SKIN28,Radial Artery,Pigmented,Right,Pigmented
+8,SKIN30,Bicep,Not Pigmented,Left,Not Pigmented
+9,SKIN30,Bicep,Pigmented,Left,Pigmented
+10,SKIN30,Bicep,Pigmented,Right,Pigmented
+11,SKIN30,Carotid Artery,,Left,
+12,SKIN30,Carotid Artery,,Right,
+13,SKIN30,Leg,,Left,
+14,SKIN30,Leg,,Right,
+15,SKIN30,Radial Artery,,Left,
+16,SKIN30,Radial Artery,,Right,
+17,SKIN30,Ulnar Artery,,Left,
+18,SKIN30,Ulnar Artery,,Right,
+19,SKIN33,Bicep,,Left,
+20,SKIN33,Brachial Artery,,Left,Pigmented
+21,SKIN33,Carotid Artery,,Left,
+22,SKIN33,Leg,,Left,
+23,SKIN33,Radial Artery,,Left,Not Pigmented
+24,SKIN34,Bicep,,,
+25,SKIN34,Brachial Artery,,,Pigmented
+26,SKIN34,Carotid Artery,,,
+27,SKIN34,Leg,,,
+28,SKIN34,Radial Artery,,,Not Pigmented
+29,SKIN36,Bicep,,,
+30,SKIN36,Brachial Artery,,,
+31,SKIN36,Carotid Artery,Not Pigmented,,Not Pigmented
+32,SKIN36,Carotid Artery,Pigmented,,Pigmented
+33,SKIN36,Leg,,,
+34,SKIN36,Radial Artery,,,
+35,SKIN37,Bicep,,,
+36,SKIN37,Brachial Artery,,,Pigmented
+37,SKIN37,Carotid Artery,,,
+38,SKIN37,Radial Artery,,,Not Pigmented

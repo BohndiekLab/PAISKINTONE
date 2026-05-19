@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paiskintonetools"
+version = "0.0.1"
+authors = [
+  { name="Thomas Else", email="tre26@cam.ac.uk" },
+]
+description = "Useful Python tools for the PAISKINTONE study."
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
