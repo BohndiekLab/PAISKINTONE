@@ -1,6 +1,6 @@
 # Code for: "The confounding effects of skin colour in photoacoustic imaging"
 
-### [Paper](https://www.medrxiv.org/content/10.1101/2025.03.28.25324605v1) | [Dataset](https://zenodo.org/records/20068219)
+### [Paper](https://www.nature.com/articles/s41467-026-74380-7) | [Dataset](https://zenodo.org/records/20068219)
 
 **Authors:** [Thomas R. Else](https://github.com/tomelse), Christine Loreno, Alice Groves, Benjamin T. Cox, Evangelia Vetsiou, Janek Grohl, Ines Modellel, Sarah E. Bohndiek, Amit Roshan. *University of Cambridge*
 
