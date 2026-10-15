@@ -15,7 +15,7 @@ Note also: large files, such as the forward model matrix used for image reconstr
 
 ## Setting up the Python environment
 
-This code relies extensively on the Python package PATATO [https://patato.rtfd.io/](https://patato.rtfd.io/). To setup a Python environment, I would recommend using something like Anaconda or [https://docs.astral.sh/uv/](uv). The deposited version of the code was tested on Windows with Python 3.12.9, but it should work on earlier versions of Python and on Mac and Linux.
+This code relies extensively on the Python package PATATO [https://patato.rtfd.io/](https://patato.rtfd.io/). To setup a Python environment, I would recommend using something like Anaconda or [https://docs.astral.sh/uv/](uv). The deposited version of the code was tested on Mac with Python 3.12.9, but it should work on earlier versions of Python and on Mac and Linux.
 
 ```bash
 git clone https://github.com/BohndiekLab/PAISKINTONE.git
