@@ -9,7 +9,7 @@ Contact details: Sarah E. Bohndiek, seb53@cam.ac.uk; Amit Roshan, amit.roshan@cr
 ![Figure 6 from the paper, showing the process of melanin absorption ultrasound reconstruction.](FinalFigures/figure6.svg)
 *Figure 6 from the paper, showing the process of melanin absorption ultrasound reconstruction.*
 
-Ths repository contains the code used for the paper "The confounding effects of skin colour in photoacoustic imaging". Figure papers can be reproduced using this code. The entire imaging dataset will be provided on Zenodo upon acceptance.
+Ths repository contains the code used for the paper "The confounding effects of skin colour in photoacoustic imaging". Figure papers can be reproduced using this code. The entire imaging dataset is available on Zenodo.
 
 Note also: large files, such as the forward model matrix used for image reconstruction and in PA to US code can be found in the data deposit.
 
